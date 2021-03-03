@@ -35,3 +35,12 @@
 	path = tidyBF
 	url = https://github.com/indrajeetpatil/tidybf
 	shallow = true
+[submodule "BayesFactor"]
+	path = BayesFactor
+	url = https://github.com/richarddmorey/BayesFactor
+	shallow = true
+	subdir = pkg/BayesFactor
+[submodule "parameters"]
+	path = parameters
+	url = https://github.com/easystats/parameters
+	shallow = true
