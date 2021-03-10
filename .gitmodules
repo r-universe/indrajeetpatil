@@ -40,11 +40,3 @@
 	url = https://github.com/richarddmorey/BayesFactor
 	shallow = true
 	subdir = pkg/BayesFactor
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
-	shallow = true
-[submodule "parameters"]
-	path = parameters
-	url = https://github.com/easystats/parameters
-	shallow = true

@@ -14,18 +14,6 @@
     "from": "statsExpressions"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["ggstatsplot", "parameters"],
-    "from": "ggstatsplot"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["ggstatsplot"],
-    "from": "ggstatsplot"
-  },
-  {
     "package": "statsExpressions",
     "url": "https://github.com/IndrajeetPatil/statsExpressions",
     "via": ["ggstatsplot"],
