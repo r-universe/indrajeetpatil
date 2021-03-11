@@ -2,21 +2,8 @@
   {
     "package": "BayesFactor",
     "url": "https://github.com/richarddmorey/BayesFactor",
-    "via": ["ggstatsplot", "statsExpressions"],
-    "subdir": "pkg/BayesFactor",
-    "from": "ggstatsplot"
-  },
-  {
-    "package": "BayesFactor",
-    "url": "https://github.com/richarddmorey/BayesFactor",
     "via": ["statsExpressions"],
     "subdir": "pkg/BayesFactor",
     "from": "statsExpressions"
-  },
-  {
-    "package": "statsExpressions",
-    "url": "https://github.com/IndrajeetPatil/statsExpressions",
-    "via": ["ggstatsplot"],
-    "from": "ggstatsplot"
   }
 ]
