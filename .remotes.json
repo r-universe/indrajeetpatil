@@ -7,6 +7,12 @@
     "from": "statsExpressions"
   },
   {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["statsExpressions"],
+    "from": "statsExpressions"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot"],
