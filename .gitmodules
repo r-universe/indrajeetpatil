@@ -7,48 +7,60 @@
 	path = broomExtra
 	url = https://github.com/indrajeetpatil/broomextra
 	shallow = true
+	registered = true
 [submodule "ggstatsplot"]
 	path = ggstatsplot
 	url = https://github.com/indrajeetpatil/ggstatsplot
 	shallow = true
+	registered = true
 [submodule "groupedstats"]
 	path = groupedstats
 	url = https://github.com/indrajeetpatil/groupedstats
 	shallow = true
+	registered = true
 [submodule "ipmisc"]
 	path = ipmisc
 	url = https://github.com/indrajeetpatil/ipmisc
 	shallow = true
+	registered = true
 [submodule "kittyR"]
 	path = kittyR
 	url = https://github.com/indrajeetpatil/kittyr
 	shallow = true
+	registered = true
 [submodule "pairwiseComparisons"]
 	path = pairwiseComparisons
 	url = https://github.com/indrajeetpatil/pairwisecomparisons
 	shallow = true
+	registered = true
 [submodule "statsExpressions"]
 	path = statsExpressions
 	url = https://github.com/indrajeetpatil/statsexpressions
 	shallow = true
+	registered = true
 [submodule "tidyBF"]
 	path = tidyBF
 	url = https://github.com/indrajeetpatil/tidybf
 	shallow = true
+	registered = true
 [submodule "BayesFactor"]
 	path = BayesFactor
 	url = https://github.com/richarddmorey/BayesFactor
 	shallow = true
 	subdir = pkg/BayesFactor
+	registered = false
 [submodule "effectsize"]
 	path = effectsize
 	url = https://github.com/easystats/effectsize
 	shallow = true
+	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
 	shallow = true
+	registered = false
 [submodule "parameters"]
 	path = parameters
 	url = https://github.com/easystats/parameters
 	shallow = true
+	registered = false
