@@ -43,17 +43,6 @@
 	url = https://github.com/indrajeetpatil/tidybf
 	shallow = true
 	registered = true
-[submodule "BayesFactor"]
-	path = BayesFactor
-	url = https://github.com/richarddmorey/BayesFactor
-	shallow = true
-	subdir = pkg/BayesFactor
-	registered = false
-[submodule "effectsize"]
-	path = effectsize
-	url = https://github.com/easystats/effectsize
-	shallow = true
-	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight

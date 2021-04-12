@@ -1,18 +1,5 @@
 [
   {
-    "package": "BayesFactor",
-    "url": "https://github.com/richarddmorey/BayesFactor",
-    "via": ["statsExpressions"],
-    "subdir": "pkg/BayesFactor",
-    "from": "statsExpressions"
-  },
-  {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["statsExpressions"],
-    "from": "statsExpressions"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot"],
