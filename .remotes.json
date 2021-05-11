@@ -2,8 +2,32 @@
   {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
     "via": ["statsExpressions"],
     "from": "statsExpressions"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "effectsize", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize", "parameters"],
+    "from": "ggstatsplot"
   },
   {
     "package": "insight",
@@ -14,7 +38,25 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["statsExpressions", "effectsize"],
     "from": "statsExpressions"
+  },
+  {
+    "package": "statsExpressions",
+    "url": "https://github.com/IndrajeetPatil/statsExpressions",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
   }
 ]
