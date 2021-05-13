@@ -1,0 +1,34 @@
+[
+  {
+    "package": "broomExtra",
+    "oncran": true
+  },
+  {
+    "package": "ggstatsplot",
+    "oncran": true
+  },
+  {
+    "package": "groupedstats",
+    "oncran": true
+  },
+  {
+    "package": "ipmisc",
+    "oncran": true
+  },
+  {
+    "package": "kittyR",
+    "oncran": true
+  },
+  {
+    "package": "pairwiseComparisons",
+    "oncran": true
+  },
+  {
+    "package": "statsExpressions",
+    "oncran": true
+  },
+  {
+    "package": "tidyBF",
+    "oncran": true
+  }
+]
