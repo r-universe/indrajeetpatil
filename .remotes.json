@@ -18,18 +18,6 @@
     "from": "statsExpressions"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["ggstatsplot", "effectsize", "parameters"],
-    "from": "ggstatsplot"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["ggstatsplot", "statsExpressions", "effectsize", "parameters"],
-    "from": "ggstatsplot"
-  },
-  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "effectsize"],
@@ -39,6 +27,12 @@
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions"],
     "from": "ggstatsplot"
   },
   {
