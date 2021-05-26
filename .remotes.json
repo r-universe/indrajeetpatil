@@ -20,12 +20,6 @@
   {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
-    "via": ["statsExpressions"],
-    "from": "statsExpressions"
-  },
-  {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
     "via": ["statsExpressions", "parameters"],
     "from": "statsExpressions"
   },
