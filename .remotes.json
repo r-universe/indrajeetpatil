@@ -1,5 +1,23 @@
 [
   {
+    "package": "pairwiseComparisons",
+    "url": "https://github.com/IndrajeetPatil/pairwiseComparisons",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "statsExpressions",
+    "url": "https://github.com/IndrajeetPatil/statsExpressions",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "statsExpressions",
+    "url": "https://github.com/IndrajeetPatil/statsExpressions",
+    "via": ["ggstatsplot", "pairwiseComparisons"],
+    "from": "ggstatsplot"
+  },
+  {
     "package": "statsExpressions",
     "url": "https://github.com/IndrajeetPatil/statsExpressions",
     "via": ["pairwiseComparisons"],
