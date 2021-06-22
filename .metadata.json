@@ -28,7 +28,6 @@
     "oncran": true
   },
   {
-    "package": "tidyBF",
-    "oncran": true
+    "package": "tidyBF"
   }
 ]
