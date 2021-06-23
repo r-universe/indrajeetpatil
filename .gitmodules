@@ -38,11 +38,6 @@
 	url = https://github.com/indrajeetpatil/statsexpressions
 	shallow = true
 	registered = true
-[submodule "tidyBF"]
-	path = tidyBF
-	url = https://github.com/indrajeetpatil/tidybf
-	shallow = true
-	registered = true
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight

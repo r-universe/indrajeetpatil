@@ -26,8 +26,5 @@
   {
     "package": "statsExpressions",
     "oncran": true
-  },
-  {
-    "package": "tidyBF"
   }
 ]
