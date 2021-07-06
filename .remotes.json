@@ -20,6 +20,18 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["pairwiseComparisons", "parameters"],
+    "from": "pairwiseComparisons"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["pairwiseComparisons", "statsExpressions", "parameters"],
+    "from": "pairwiseComparisons"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["statsExpressions", "parameters"],
     "from": "statsExpressions"
   },
@@ -46,6 +58,18 @@
     "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions"],
     "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["pairwiseComparisons"],
+    "from": "pairwiseComparisons"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["pairwiseComparisons", "statsExpressions"],
+    "from": "pairwiseComparisons"
   },
   {
     "package": "parameters",
