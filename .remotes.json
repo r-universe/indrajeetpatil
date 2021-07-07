@@ -14,6 +14,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "parameters"],
     "from": "ggstatsplot"
   },
@@ -51,6 +57,12 @@
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "pairwiseComparisons"],
     "from": "ggstatsplot"
   },
   {
