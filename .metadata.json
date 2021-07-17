@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "groupedstats",
-    "oncran": true
+    "package": "groupedstats"
   },
   {
     "package": "ipmisc",
