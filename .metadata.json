@@ -16,8 +16,7 @@
     "oncran": true
   },
   {
-    "package": "kittyR",
-    "oncran": true
+    "package": "kittyR"
   },
   {
     "package": "pairwiseComparisons",
