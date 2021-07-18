@@ -13,19 +13,9 @@
 	url = https://github.com/indrajeetpatil/ggstatsplot
 	shallow = true
 	registered = true
-[submodule "groupedstats"]
-	path = groupedstats
-	url = https://github.com/indrajeetpatil/groupedstats
-	shallow = true
-	registered = true
 [submodule "ipmisc"]
 	path = ipmisc
 	url = https://github.com/indrajeetpatil/ipmisc
-	shallow = true
-	registered = true
-[submodule "kittyR"]
-	path = kittyR
-	url = https://github.com/indrajeetpatil/kittyr
 	shallow = true
 	registered = true
 [submodule "pairwiseComparisons"]

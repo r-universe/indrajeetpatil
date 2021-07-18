@@ -8,14 +8,8 @@
     "oncran": true
   },
   {
-    "package": "groupedstats"
-  },
-  {
     "package": "ipmisc",
     "oncran": true
-  },
-  {
-    "package": "kittyR"
   },
   {
     "package": "pairwiseComparisons",
