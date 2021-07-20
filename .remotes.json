@@ -168,12 +168,6 @@
     "from": "statsExpressions"
   },
   {
-    "package": "ggside",
-    "url": "https://github.com/jtlandis/ggside",
-    "via": ["ggstatsplot"],
-    "from": "ggstatsplot"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot"],
