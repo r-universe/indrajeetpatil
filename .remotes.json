@@ -2,6 +2,42 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot", "statsExpressions", "correlation"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "correlation"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["statsExpressions", "datawizard", "effectsize"],
     "from": "statsExpressions"
   },
@@ -20,14 +56,62 @@
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
     "via": ["statsExpressions"],
     "from": "statsExpressions"
   },
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["statsExpressions"],
     "from": "statsExpressions"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions"],
+    "from": "ggstatsplot"
   },
   {
     "package": "effectsize",
@@ -42,9 +126,51 @@
     "from": "statsExpressions"
   },
   {
+    "package": "ggside",
+    "url": "https://github.com/jtlandis/ggside",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard", "effectsize", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions"],
     "from": "ggstatsplot"
   },
   {
@@ -56,13 +182,97 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "correlation"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "correlation", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot", "pairwiseComparisons", "parameters"],
     "from": "ggstatsplot"
   },
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard", "effectsize", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "effectsize", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "correlation"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "correlation", "parameters"],
     "from": "ggstatsplot"
   },
   {
@@ -152,7 +362,31 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions", "correlation"],
     "from": "ggstatsplot"
   },
   {
@@ -164,7 +398,31 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "correlation"],
     "from": "ggstatsplot"
   },
   {
@@ -208,6 +466,60 @@
     "url": "https://github.com/easystats/parameters",
     "via": ["statsExpressions", "correlation"],
     "from": "statsExpressions"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "datawizard", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "pairwiseComparisons", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
   },
   {
     "package": "performance",
