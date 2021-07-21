@@ -48,6 +48,11 @@
 	url = https://github.com/easystats/effectsize
 	shallow = true
 	registered = false
+[submodule "ggside"]
+	path = ggside
+	url = https://github.com/jtlandis/ggside
+	shallow = true
+	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
