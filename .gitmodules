@@ -18,3 +18,8 @@
 	url = https://github.com/indrajeetpatil/statsexpressions
 	shallow = true
 	registered = true
+[submodule "effectsize"]
+	path = effectsize
+	url = https://github.com/easystats/effectsize
+	shallow = true
+	registered = false
