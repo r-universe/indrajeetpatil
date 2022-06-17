@@ -1,0 +1,14 @@
+[
+  {
+    "package": "broomExtra",
+    "oncran": true
+  },
+  {
+    "package": "ggstatsplot",
+    "oncran": true
+  },
+  {
+    "package": "statsExpressions",
+    "oncran": true
+  }
+]

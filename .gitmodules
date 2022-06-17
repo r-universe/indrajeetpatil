@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "broomExtra"]
+	path = broomExtra
+	url = https://github.com/indrajeetpatil/broomextra
+	shallow = true
+	registered = true
+[submodule "ggstatsplot"]
+	path = ggstatsplot
+	url = https://github.com/indrajeetpatil/ggstatsplot
+	shallow = true
+	registered = true
+[submodule "statsExpressions"]
+	path = statsExpressions
+	url = https://github.com/indrajeetpatil/statsexpressions
+	shallow = true
+	registered = true
