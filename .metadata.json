@@ -1,8 +1,5 @@
 [
   {
-    "package": "broomExtra"
-  },
-  {
     "package": "ggstatsplot",
     "oncran": true
   },
