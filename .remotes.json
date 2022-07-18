@@ -1,5 +1,11 @@
 [
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["statsExpressions", "performance"],
+    "from": "statsExpressions"
+  },
+  {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
     "via": ["statsExpressions"],
@@ -8,12 +14,18 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["statsExpressions", "parameters"],
+    "via": ["statsExpressions"],
     "from": "statsExpressions"
   },
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["statsExpressions"],
+    "from": "statsExpressions"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
     "via": ["statsExpressions"],
     "from": "statsExpressions"
   }

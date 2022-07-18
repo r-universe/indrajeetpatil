@@ -13,6 +13,11 @@
 	url = https://github.com/indrajeetpatil/statsexpressions
 	shallow = true
 	registered = true
+[submodule "datawizard"]
+	path = datawizard
+	url = https://github.com/easystats/datawizard
+	shallow = true
+	registered = false
 [submodule "effectsize"]
 	path = effectsize
 	url = https://github.com/easystats/effectsize
@@ -26,5 +31,10 @@
 [submodule "parameters"]
 	path = parameters
 	url = https://github.com/easystats/parameters
+	shallow = true
+	registered = false
+[submodule "performance"]
+	path = performance
+	url = https://github.com/easystats/performance
 	shallow = true
 	registered = false
