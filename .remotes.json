@@ -2,8 +2,26 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["ggstatsplot", "performance"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["ggstatsplot", "statsExpressions", "performance"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["statsExpressions", "performance"],
     "from": "statsExpressions"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
   },
   {
     "package": "effectsize",
@@ -14,8 +32,44 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["ggstatsplot", "statsExpressions", "parameters"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["statsExpressions"],
     "from": "statsExpressions"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
   },
   {
     "package": "parameters",
@@ -26,7 +80,25 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
     "via": ["statsExpressions"],
     "from": "statsExpressions"
+  },
+  {
+    "package": "statsExpressions",
+    "url": "https://github.com/IndrajeetPatil/statsExpressions",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
   }
 ]
