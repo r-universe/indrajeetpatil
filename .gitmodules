@@ -13,6 +13,11 @@
 	url = https://github.com/indrajeetpatil/statsexpressions
 	shallow = true
 	registered = true
+[submodule "correlation"]
+	path = correlation
+	url = https://github.com/easystats/correlation
+	shallow = true
+	registered = false
 [submodule "datawizard"]
 	path = datawizard
 	url = https://github.com/easystats/datawizard
