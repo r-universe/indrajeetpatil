@@ -2,6 +2,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["statsExpressions", "effectsize", "performance"],
     "from": "statsExpressions"
   },
@@ -20,6 +26,18 @@
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
     "via": ["statsExpressions", "effectsize"],
     "from": "statsExpressions"
   },
@@ -32,13 +50,13 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["ggstatsplot", "performance"],
+    "via": ["ggstatsplot", "statsExpressions"],
     "from": "ggstatsplot"
   },
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["ggstatsplot", "statsExpressions", "performance"],
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
     "from": "ggstatsplot"
   },
   {
@@ -122,19 +140,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["ggstatsplot", "parameters"],
-    "from": "ggstatsplot"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["ggstatsplot", "statsExpressions"],
-    "from": "ggstatsplot"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["ggstatsplot", "statsExpressions", "parameters"],
     "from": "ggstatsplot"
   },
   {
@@ -218,6 +224,12 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "statsExpressions"],
     "from": "ggstatsplot"
   },
@@ -249,6 +261,12 @@
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["ggstatsplot", "statsExpressions", "effectsize"],
     "from": "ggstatsplot"
   },
   {
