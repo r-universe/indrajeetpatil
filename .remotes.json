@@ -1,5 +1,11 @@
 [
   {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["statsExpressions"],
+    "from": "statsExpressions"
+  },
+  {
     "package": "statsExpressions",
     "url": "https://github.com/IndrajeetPatil/statsExpressions",
     "via": ["ggstatsplot"],
