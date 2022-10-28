@@ -2,6 +2,12 @@
   {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
+    "via": ["ggstatsplot", "statsExpressions"],
+    "from": "ggstatsplot"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
     "via": ["statsExpressions"],
     "from": "statsExpressions"
   },
