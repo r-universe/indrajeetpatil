@@ -1,10 +1,10 @@
 [
   {
-    "package": "ggstatsplot",
+    "package": "statsExpressions",
     "oncran": true
   },
   {
-    "package": "statsExpressions",
+    "package": "ggstatsplot",
     "oncran": true
   }
 ]
