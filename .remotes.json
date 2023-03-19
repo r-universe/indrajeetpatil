@@ -1,0 +1,8 @@
+[
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["ggstatsplot"],
+    "from": "ggstatsplot"
+  }
+]

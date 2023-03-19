@@ -13,3 +13,8 @@
 	url = https://github.com/indrajeetpatil/statsexpressions
 	shallow = true
 	registered = true
+[submodule "bayestestR"]
+	path = bayestestR
+	url = https://github.com/easystats/bayestestR
+	shallow = true
+	registered = false
