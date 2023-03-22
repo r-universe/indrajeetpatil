@@ -4,11 +4,5 @@
     "url": "https://github.com/easystats/bayestestR",
     "via": ["ggstatsplot"],
     "from": "ggstatsplot"
-  },
-  {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["statsExpressions"],
-    "from": "statsExpressions"
   }
 ]
