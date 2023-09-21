@@ -8,7 +8,3 @@
 [submodule "statsExpressions"]
 	path = statsExpressions
 	url = https://github.com/indrajeetpatil/statsexpressions
-[submodule "vdiffr"]
-	path = vdiffr
-	url = https://github.com/r-lib/vdiffr
-	registered = false
