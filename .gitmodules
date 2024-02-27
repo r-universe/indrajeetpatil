@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "ggstatsplot"]
 	path = ggstatsplot
 	url = https://github.com/indrajeetpatil/ggstatsplot
