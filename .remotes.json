@@ -4,11 +4,5 @@
     "url": "https://github.com/tidyverse/ggplot2",
     "via": ["ggstatsplot"],
     "from": "ggstatsplot"
-  },
-  {
-    "package": "statsExpressions",
-    "url": "https://github.com/IndrajeetPatil/statsExpressions",
-    "via": ["ggstatsplot"],
-    "from": "ggstatsplot"
   }
 ]
