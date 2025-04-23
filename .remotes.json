@@ -1,0 +1,32 @@
+[
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["statsExpressions"],
+    "from": "statsExpressions"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["statsExpressions"],
+    "from": "statsExpressions"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["statsExpressions", "bayestestR", "modelbased"],
+    "from": "statsExpressions"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["statsExpressions", "bayestestR"],
+    "from": "statsExpressions"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["statsExpressions", "bayestestR", "modelbased"],
+    "from": "statsExpressions"
+  }
+]
