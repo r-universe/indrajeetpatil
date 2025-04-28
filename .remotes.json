@@ -30,34 +30,16 @@
     "from": "ggstatsplot"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["statsExpressions", "bayestestR", "modelbased"],
-    "from": "statsExpressions"
-  },
-  {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
     "via": ["ggstatsplot", "bayestestR"],
     "from": "ggstatsplot"
   },
   {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["statsExpressions", "bayestestR"],
-    "from": "statsExpressions"
-  },
-  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["ggstatsplot", "bayestestR", "modelbased"],
     "from": "ggstatsplot"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["statsExpressions", "bayestestR", "modelbased"],
-    "from": "statsExpressions"
   },
   {
     "package": "statsExpressions",
