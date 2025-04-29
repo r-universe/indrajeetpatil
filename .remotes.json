@@ -24,24 +24,6 @@
     "from": "statsExpressions"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["ggstatsplot", "bayestestR", "modelbased"],
-    "from": "ggstatsplot"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["ggstatsplot", "bayestestR"],
-    "from": "ggstatsplot"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["ggstatsplot", "bayestestR", "modelbased"],
-    "from": "ggstatsplot"
-  },
-  {
     "package": "statsExpressions",
     "url": "https://github.com/IndrajeetPatil/statsExpressions",
     "via": ["ggstatsplot"],

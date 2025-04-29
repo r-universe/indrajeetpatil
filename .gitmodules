@@ -13,18 +13,6 @@
 [submodule "ggstatsplot"]
 	path = ggstatsplot
 	url = https://github.com/indrajeetpatil/ggstatsplot
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
-	registered = false
-[submodule "modelbased"]
-	path = modelbased
-	url = https://github.com/easystats/modelbased
-	registered = false
-[submodule "parameters"]
-	path = parameters
-	url = https://github.com/easystats/parameters
-	registered = false
 [submodule "statsExpressions"]
 	path = statsExpressions
 	url = https://github.com/indrajeetpatil/statsexpressions
