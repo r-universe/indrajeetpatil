@@ -1,11 +1,5 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["ggstatsplot"],
-    "from": "ggstatsplot"
-  },
-  {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["ggstatsplot"],

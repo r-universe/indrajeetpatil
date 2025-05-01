@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayestestR"]
-	path = bayestestR
-	url = https://github.com/easystats/bayestestR
-	registered = false
 [submodule "datawizard"]
 	path = datawizard
 	url = https://github.com/easystats/datawizard
