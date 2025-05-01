@@ -6,12 +6,6 @@
     "from": "ggstatsplot"
   },
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["statsExpressions"],
-    "from": "statsExpressions"
-  },
-  {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["ggstatsplot"],
