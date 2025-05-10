@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "datawizard"]
-	path = datawizard
-	url = https://github.com/easystats/datawizard
-	registered = false
 [submodule "ggstatsplot"]
 	path = ggstatsplot
 	url = https://github.com/indrajeetpatil/ggstatsplot
